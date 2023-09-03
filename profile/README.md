@@ -3,3 +3,4 @@
 
 ![Honey](https://honey.thegillams.co.uk/img/77%20Products%20copy.JPG)
 ![Honey](https://honey.thegillams.co.uk/img/honey.png)
+![Honey](https://honey.thegillams.co.uk/img/favicon.ico)
