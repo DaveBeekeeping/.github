@@ -2,5 +2,4 @@
 *Dave's Beekeeping* is an organisation to show and advertise Dave's Beekeeping in Ringwood and Burley.
 
 <img src="https://honey.thegillams.co.uk/img/77%20Products%20copy.JPG" width="30%" height="30%" alt="Honey"/>
-
 <img src="https://honey.thegillams.co.uk/img/honey.png" width="30%" height="30%" alt="Honey"/>
