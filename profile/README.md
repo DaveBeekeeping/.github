@@ -3,4 +3,4 @@
 
 <img src="https://honey.thegillams.co.uk/img/77%20Products%20copy.JPG" width="30%" height="30%" alt="Honey"/>
 
-![Honey](https://honey.thegillams.co.uk/img/honey.png)
+<img src="https://honey.thegillams.co.uk/img/honey.png" width="30%" height="30%" alt="Honey"/>
